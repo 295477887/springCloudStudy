@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location-service/location-service.iml" filepath="$PROJECT_DIR$/location-service/location-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://E:\idea-space\springCloudStudy\spring-boot\spring-boot.iml" filepath="E:\idea-space\springCloudStudy\spring-boot\spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudStudy.iml" filepath="$PROJECT_DIR$/springCloudStudy.iml" />
     </modules>
   </component>
 </project>
